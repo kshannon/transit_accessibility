@@ -1,6 +1,6 @@
-# Our project uses the following project to build:
+# New York City H3 Hexagon Mapping Example
 
-https://github.com/afilabs/h3js_hexagons_taxi_demand/?ref=blog.afi.io
+Our project uses the following project to build: https://github.com/afilabs/h3js_hexagons_taxi_demand/?ref=blog.afi.io
 
 
  How to run the app:
