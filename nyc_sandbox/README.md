@@ -8,4 +8,4 @@ https://github.com/afilabs/h3js_hexagons_taxi_demand/?ref=blog.afi.io
  2. Open terminal and run 'npm install' (this will install the required dependencies)
  3. Run `npm start`
 
-Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
+
