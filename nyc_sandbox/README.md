@@ -1,10 +1,6 @@
 # Our project uses the following project to build:
 
-![Uber h3 js tutorial: How to draw hexagons on a map](https://blog.afi.io/content/images/size/w1600/2023/07/Screen-Shot-2023-07-06-at-1.32.03-AM.png "Uber h3 js tutorial: How to draw hexagons on a map")
-
-Taken from: 
-- [Uber h3 js tutorial: How to draw hexagons on a map (part 1 of 3)](https://www.afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/)
-- [Mapping taxi demand with Uber h3 js and react map gl (part 2 of 3)](https://blog.afi.io/blog/mapping-taxi-demand-with-uber-h3-js-and-react-map-gl/)
+https://github.com/afilabs/h3js_hexagons_taxi_demand/?ref=blog.afi.io
 
 
  How to run the app:
